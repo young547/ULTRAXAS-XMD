@@ -21,7 +21,7 @@ const createContext = (userJid, options = {}) => ({
             thumbnailUrl: options.thumbnail || DEFAULT_THUMBNAIL,
             mediaType: 1,
             mediaUrl: options.mediaUrl || undefined,
-            sourceUrl: options.sourceUrl || "https://wa.me/254728782591", // link to bot or business
+            sourceUrl: options.sourceUrl || "https://wa.me/447405817307", // link to bot or business
             showAdAttribution: true,
             renderLargerThumbnail: false 
         }
