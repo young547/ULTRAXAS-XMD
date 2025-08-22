@@ -1,6 +1,6 @@
 ![ULTRAXAS XMD Logo](https://res.cloudinary.com/dptzpfgtm/image/upload/v1753723388/whatsapp_uploads/wqyliw4kzvrulh0bmg10.jpg)
 
-**ULTRAXAS XMD** is a powerful WhatsApp bot designed for easy deployment and session management.  
+**ULTRAXAS XMD** is a powerful WhatsAp bot designed for easy deployment and session management.  
 Get started with one-click Heroku deployment, session generation, and live GitHub analytics—all wrapped in an interactive, animated web experience.
 
 ---
@@ -13,13 +13,15 @@ Deploy ULTRAXAS XMD to Heroku in one click!
 ---
 ## 🚀 Deployment Options
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xason0/ULTRAXAS-XMD)
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new?template=https://github.com/xason0/ULTRAXAS-XMD)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/xason0/ULTRAXAS-XMD)
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/xason0/ULTRAXAS-XMD)
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/xason0/ULTRAXAS-XMD)
+
+
 
 ## 🔑 Get Session
 
