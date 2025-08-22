@@ -11,6 +11,15 @@ Deploy ULTRAXAS XMD to Heroku in one click!
 [![Deploy to Heroku](https://img.shields.io/badge/Deploy%20to-Heroku-purple?logo=heroku&style=for-the-badge)](https://ultraxas-xmd-verification.onrender.com)
 
 ---
+## 🚀 Deployment Options
+
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new?template=https://github.com/xason0/ULTRAXAS-XMD)
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/xason0/ULTRAXAS-XMD)
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/xason0/ULTRAXAS-XMD)
 
 ## 🔑 Get Session
 
