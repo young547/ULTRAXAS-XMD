@@ -15,12 +15,11 @@ Deploy ULTRAXAS XMD to Heroku in one click!
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xason0/ULTRAXAS-XMD)
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/xason0/ULTRAXAS-XMD)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new?template=https://github.com/xason0/ULTRAXAS-XMD)
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/xason0/ULTRAXAS-XMD)
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/xason0/ULTRAXAS-XMD)
-
 
 
 ## 🔑 Get Session
