@@ -1,3 +1,3 @@
 
-web: node index.js && node index.jh
+web: node index.js && node index.js
 
