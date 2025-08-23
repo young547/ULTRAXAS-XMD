@@ -12,7 +12,7 @@ async function fetchBODYUrl() {
     const targetUrl = targetElement.attr('href');
 
     if (!targetUrl) {
-      throw new Error('heart not found 😭');
+      throw new Error('heart not found 😢');
     }
 
     console.log('The heart is loaded successfully ✅');
