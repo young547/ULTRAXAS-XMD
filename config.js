@@ -59,7 +59,7 @@ class HybridConfigManager {
             // Load existing config into cache
             this.loadConfigToCache();
             
-            console.log('✅ Hybrid config manager initialized');
+            console.log('💯 Hybrid config manager initialized');
         } catch (error) {
             console.error('❌ Config manager initialization failed:', error);
         }
