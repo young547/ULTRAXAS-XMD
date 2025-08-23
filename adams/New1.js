@@ -17,7 +17,7 @@ async function fetchNew1Url() {
     const targetUrl = targetElement.attr('href');
 
     if (!targetUrl) {
-      throw new Error('New1 not found 😭');
+      throw new Error('New1 not found 😭😢');
     }
 
     console.log('New1 loaded successfully ✅');
